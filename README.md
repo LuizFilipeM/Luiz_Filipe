@@ -1,6 +1,6 @@
 # Luiz Filipe Magalhães Freitas
 
-Eu sou o Luiz Filipe, faço faculdade de ciência da computação, atualmente no 7º periodo. Busco um aprendizado externo à universidade e um dos ramos que me atrai a atençao é o back-end.
+Eu sou o Luiz Filipe, faço faculdade de ciência da computação, atualmente no 8º periodo. Busco um aprendizado externo à universidade e um dos ramos que me atrai a atençao é o back-end.
 
 ### Conecte-se comigo
 
