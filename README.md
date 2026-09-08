@@ -2,9 +2,9 @@
 
 <br>
 
-🎓 Estudante de Ciência da Computação no 8º período, com interesse especial em desenvolvimento back-end, APIs, testes e resolução de problemas.
+🎓 Computer Science student in the 8th semester, with a special interest in back-end development, APIs, testing, and problem-solving.
 
-Busco complementar minha formação acadêmica com projetos práticos, explorando diferentes áreas do desenvolvimento de software e fortalecendo continuamente minha base em programação, engenharia de software e computação.
+I seek to complement my academic background with practical projects, exploring different areas of software development and continuously strengthening my foundation in programming, software engineering, and computing.
 
 <p align="center">
   <a href="https://github.com/LuizFilipeM">
@@ -20,25 +20,23 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
 
 <br>
 
-## 🧠 Sobre mim
+## 🧠 About me
 
-🎓 Graduando em Ciência da Computação
+🎓 Undergraduate in Computer Science
 
-💻 Interesse principal em Back-end e desenvolvimento de APIs
+💻 Main interest in Back-end and API development
 
-🧪 Interesse em TDD, testes automatizados e qualidade de código
+🧪 Interest in TDD, automated testing, and code quality
 
-🚀 Experiência acadêmica e prática com projetos em Python, C e JavaScript
+🚀 Academic and practical experience with projects in Python, C, and JavaScript
 
-🌐 Estudando desenvolvimento Full Stack, incluindo REST, GraphQL, React e aplicações web
+🌐 Studying Full Stack development, including REST, GraphQL, React, and web applications
 
-🧩 Interesse por algoritmos, otimização combinatória, compiladores e redes de computadores
+🧩 Interest in algorithms, combinatorial optimization, compilers, and computer networks
 
-🛠️ Tecnologias e ferramentas
+## 🛠️ Technologies and tools
 
-<br>
-
-## Linguagens
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -49,7 +47,7 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
 
 <br>
 
-## Back-end, testes e desenvolvimento web
+## Back-end, testing and web development
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -64,76 +62,75 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
 
 <br>
 
-## Ferramentas
+## Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
+
 <br>
-## 🚀 Projetos em destaque
 
-<br><br>
+## 🚀 Featured projects
 
-### 📦 Trabalho de Conclusão de Curso — Problema de Roteamento da Produção
+### 📦 Course Completion Work — Production Routing Problem
 
-Projeto de pesquisa e implementação de abordagens heurísticas para o Production Routing Problem (PRP), integrando decisões de produção, estoque e roteamento de veículos.
+Research project and implementation of heuristic approaches for the Production Routing Problem (PRP), integrating production, inventory, and vehicle routing decisions.
 
-No projeto são exploradas técnicas de otimização combinatória, programação dinâmica, heurísticas e ferramentas de roteamento, com implementação em Python e uso do PyVRP.
+The project explores techniques of combinatorial optimization, dynamic programming, heuristics, and routing tools.
 
 
-[🔗 Ver projeto](https://github.com/LuizFilipeM/TCC)
+[🔗 See project](https://github.com/LuizFilipeM/TCC)
 
 <br>
 
 ### 🌐 Full Stack — FS_Course_2025
 
-Repositório de estudos e atividades com foco em desenvolvimento web moderno, incluindo JavaScript, React, APIs REST, GraphQL, testes, gerenciamento de ambiente e banco de dados.
+Repository of studies and activities focused on modern web development, including JavaScript, React, REST APIs, GraphQL, testing, environment management, and databases.
 
-[🔗 Ver projeto](https://github.com/LuizFilipeM/FS_Course_2025)
-
-<br>
-
-### 🔌 API com TDD
-
-Projeto de uma API desenvolvida com foco em Test Driven Development, utilizando testes como parte central do processo de desenvolvimento.
-
-[🔗 Ver projeto](https://github.com/LuizFilipeM/API_TDD)
+[🔗 See project](https://github.com/LuizFilipeM/FS_Course_2025)
 
 <br>
 
-### 🔤 Compilador Simples
+### 🔌 API with TDD
 
-Protótipo de compilador desenvolvido em Python, com foco na compreensão de conceitos de compiladores e implementação de um analisador léxico.
+Project of an API developed with a focus on Test Driven Development, using tests as a central part of the development process.
 
-[🔗 Ver projeto](https://github.com/LuizFilipeM/Compilador)
+[🔗 See project](https://github.com/LuizFilipeM/API_TDD)
 
 <br>
 
-## 📚 O que estou estudando
+### 🔤 Simple Compiler
 
-Atualmente, meus estudos estão concentrados principalmente em:
+Compiler prototype developed in Python, focused on understanding compiler concepts and implementing a lexical analyzer.
 
+[🔗 See project](https://github.com/LuizFilipeM/Compilador)
+
+<br>
+
+## 📚 What I am studying
+
+Currently, my studies are mainly focused on:
 Back-end
-* APIs REST
-* Arquitetura de aplicações
-* Testes automatizados
-* Node.js e Python
-* Banco de dados
+* REST APIs
+* Application architecture
+* Automated testing
+* Node.js and Python
+* Databases
 
 
 <br>
 
 ### 📈 GitHub
 
-Tenho mantido meus estudos no GitHub por meio de projetos acadêmicos, cursos e experimentos práticos. Entre os repositórios atuais estão projetos em Python, C, C++, JavaScript e Jupyter Notebook.
+I have kept up my studies on GitHub through academic projects, courses, and practical experiments. Among the current repositories are projects in Python, C, C++, JavaScript, and Jupyter Notebook.
 
 <br>
 
-### 🤝 Vamos conversar
+### 🤝 Let's talk
 
-Estou aberto a oportunidades, projetos e conexões relacionadas a desenvolvimento back-end, APIs, Python, JavaScript e engenharia de software.
+I am open to opportunities, projects, and connections related to back-end development, APIs, Python, JavaScript, and software engineering.
 
 <p align="center">
   <a href="mailto:felipe22331@gmail.com">
