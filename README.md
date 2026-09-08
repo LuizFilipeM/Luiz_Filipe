@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Luiz Filipe
 
+<br>
+
 🎓 Estudante de Ciência da Computação no 8º período, com interesse especial em desenvolvimento back-end, APIs, testes e resolução de problemas.
 
 Busco complementar minha formação acadêmica com projetos práticos, explorando diferentes áreas do desenvolvimento de software e fortalecendo continuamente minha base em programação, engenharia de software e computação.
@@ -15,6 +17,8 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
     <img src="https://img.shields.io/badge/LinkedIn-Luiz%20Filipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<br>
 
 ## 🧠 Sobre mim
 
@@ -32,6 +36,8 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
 
 🛠️ Tecnologias e ferramentas
 
+<br>
+
 ## Linguagens
 
 <p>
@@ -40,6 +46,8 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
+
+<br>
 
 ## Back-end, testes e desenvolvimento web
 
@@ -54,6 +62,8 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
+<br>
+
 ## Ferramentas
 
 <p>
@@ -61,8 +71,10 @@ Busco complementar minha formação acadêmica com projetos práticos, explorand
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
-
+<br>
 ## 🚀 Projetos em destaque
+
+<br><br>
 
 ### 📦 Trabalho de Conclusão de Curso — Problema de Roteamento da Produção
 
@@ -73,6 +85,7 @@ No projeto são exploradas técnicas de otimização combinatória, programaçã
 
 [🔗 Ver projeto](https://github.com/LuizFilipeM/TCC)
 
+<br>
 
 ### 🌐 Full Stack — FS_Course_2025
 
@@ -80,6 +93,7 @@ Repositório de estudos e atividades com foco em desenvolvimento web moderno, in
 
 [🔗 Ver projeto](https://github.com/LuizFilipeM/FS_Course_2025)
 
+<br>
 
 ### 🔌 API com TDD
 
@@ -87,6 +101,7 @@ Projeto de uma API desenvolvida com foco em Test Driven Development, utilizando 
 
 [🔗 Ver projeto](https://github.com/LuizFilipeM/API_TDD)
 
+<br>
 
 ### 🔤 Compilador Simples
 
@@ -94,29 +109,27 @@ Protótipo de compilador desenvolvido em Python, com foco na compreensão de con
 
 [🔗 Ver projeto](https://github.com/LuizFilipeM/Compilador)
 
+<br>
 
 ## 📚 O que estou estudando
 
 Atualmente, meus estudos estão concentrados principalmente em:
 
 Back-end
-├── APIs REST
-├── Arquitetura de aplicações
-├── Testes automatizados / TDD
-├── Node.js e Python
-└── Banco de dados
+* APIs REST
+* Arquitetura de aplicações
+* Testes automatizados
+* Node.js e Python
+* Banco de dados
 
-Fundamentos
-├── Estruturas de dados e algoritmos
-├── Redes de computadores
-├── Compiladores
-└── Otimização combinatória
+
+<br>
 
 ### 📈 GitHub
 
 Tenho mantido meus estudos no GitHub por meio de projetos acadêmicos, cursos e experimentos práticos. Entre os repositórios atuais estão projetos em Python, C, C++, JavaScript e Jupyter Notebook.
 
-Prefiro manter esta seção sem cards externos de estatísticas para evitar dependência de serviços de terceiros e manter o perfil mais estável.
+<br>
 
 ### 🤝 Vamos conversar
 
